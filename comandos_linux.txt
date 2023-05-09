@@ -1,0 +1,34 @@
+apt update - Atualiza os repositórios do sistema.
+apt install - Para instalar aplicativos
+init 6 - reinicia máquina
+reboot - Reinicia a máquina
+init 0 - Desliga a máquina
+sudo su - Serve para entrar no terminal com privilégios administrativos.
+Clear - Limpa o terminal
+pwd - Saber a localização onde se encontram no terminal
+ls - listagem de ficheiros e pastas
+ls -l - listagem detalhada de pasta e ficheiros
+ls -la - listagem detalhadas de todos os ficheiros e pasta, incluindo
+os ficheiros e pastas ocultas.
+cd - Serve para mudar de diretório;
+cd /home - Entrar dentro da pasta home
+cd .. - Retroceder uma pasta
+cd ../.. - Retroceder 2 pastas
+3 localizações
+/home - Homefolder de todos os utilizadores
+/root - Homefolder do user root
+/ - Raiz do sistema
+mkdir - criar pasta
+mkdir -p - criar pastas e subpastas em simultâneo
+rm -r ou rmdir - eliminar pastas
+touch - criar ficheiro sem conteúdo
+nano - Editor - Permite editar e adicionar conteudo a um ficheiro
+cat - Visualizar conteúdo de um ficheiro de texto.
+rm - Elimina ficheiros
+touch file{1..3}.txt . Criar 3 ficheiro com o nome file1.txt file2.txt e file3.txt~
+cp file1 - copiar o ficheiro
+cp -r nomepasta - copiar pastas
+
+
+
+
